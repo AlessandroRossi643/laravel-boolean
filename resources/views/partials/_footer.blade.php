@@ -1,5 +1,5 @@
 <footer>
-  <div class="container">
+  <div class="container cfooter">
     <div class="row layout_footer">
       <div class="col-lg-3 footer_logo">
         <img src="https://www.boolean.careers/images/common/logo.png" alt="">
@@ -13,7 +13,7 @@
         <a href="#">Domande Frequenti</a>
         <a href="#">Lezione Gratuita</a>
         <a href="#">Privacy Policy</a>
-        <a href="lavora_con_noi">Lavora con noi!</a>
+        <a href="/lavora_con_noi">Lavora con noi!</a>
       </div>
       <div class="col-lg-3 footer_icons">
         <a href="#"><i class="fab fa-facebook"></i></a>
@@ -24,8 +24,5 @@
     </div>
   </div>
   <section class="blue_footer">
-    <div class="container">
-
-    </div>
   </section>
 </footer>

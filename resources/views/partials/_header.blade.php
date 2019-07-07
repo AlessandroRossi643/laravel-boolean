@@ -5,7 +5,7 @@
     <div class="header-right">
         <ul>
             <li>
-                <a href="#">HOME</a>
+                <a href="/">HOME</a>
             </li>
             <li>
                 <a href="#">CORSO</a>

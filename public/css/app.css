@@ -1,13 +1,19 @@
 @import url(https://fonts.googleapis.com/css?family=Nunito);@charset "UTF-8";
 
+.container {
+  width: 100%;
+  height: 100%;
+  font-family: "Rubik", sans-serif;
+}
+
 .main_container {
   width: 100%;
   height: 550px;
 }
 
-.container {
-  width: 100%;
-  height: 100%;
+.homeSection {
+  position: relative;
+  top: 100px;
 }
 
 header {
@@ -114,6 +120,12 @@ header {
 footer {
   height: 300px;
   background-color: white;
+  position: relative;
+  top: 100px;
+}
+
+footer .cfooter {
+  height: 250px;
 }
 
 .layout_footer {
@@ -149,6 +161,21 @@ footer {
 .blue_footer {
   background-color: #1b3c59;
   height: 50px;
+}
+
+.workWithUs {
+  background-color: white;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.workWithUs .dettagliLavoro {
+  list-style-type: none;
+  padding: 0;
+}
+
+.workWithUs .paragrafo {
+  margin-top: 15px;
 }
 
 /*!

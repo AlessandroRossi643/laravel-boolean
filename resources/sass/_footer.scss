@@ -1,6 +1,12 @@
 footer{
   height: 300px;
   background-color: white;
+  position: relative;
+  top: 100px;
+
+  .cfooter{
+    height: 250px;
+  }
 }
 
 .layout_footer{

@@ -1,8 +1,13 @@
+.container{
+  width: 100%;
+  height: 100%;
+  font-family: 'Rubik', sans-serif;
+}
 .main_container{
   width: 100%;
   height: 550px;
 }
-.container{
-  width: 100%;
-  height: 100%;
+.homeSection{
+  position: relative;
+  top: 100px;
 }
