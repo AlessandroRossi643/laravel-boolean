@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
+@extends('layouts.base')
 
-  </body>
-</html>
+@section('content')
+<div class="main_container">
+
+</div>
+@endsection
