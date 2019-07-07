@@ -1,4 +1,5 @@
 @extends('layouts.base')
+@section('title', 'Work With Us - Boolean Careers')
 
 @section('content')
 <section class="homeSection workWithUs">
